@@ -1,66 +1,48 @@
-<h1 align="center">Hi, I'm Harley Seelbinder</h1>
+<p align="center">
+  <img src="https://hspsystems.io/favicon-192.png" width="78" alt="HSP Systems" />
+</p>
+
+<h1 align="center">Harley Seelbinder</h1>
 <h3 align="center">Founder & Lead Systems Architect at HSP Systems</h3>
 
 <p align="center">
-  <strong>I build business systems that connect software, data, automation, and AI.</strong>
+  <strong>I build systems that make companies easier to run.</strong>
 </p>
 
 <p align="center">
-  <a href="https://hspsystems.io"><img src="https://img.shields.io/badge/HSP%20Systems-Website-181717?style=flat-square" alt="HSP Systems website" /></a>
-  <a href="https://www.linkedin.com/in/harleyseelbinder/"><img src="https://img.shields.io/badge/LinkedIn-Harley%20Seelbinder-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hspsystems.io"><img src="https://img.shields.io/badge/HSP%20Systems-C8912A?style=flat-square&logoColor=111D3A" alt="HSP Systems" /></a>
+  <a href="https://www.linkedin.com/in/harleyseelbinder/"><img src="https://img.shields.io/badge/LinkedIn-1C2E5C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/hspsystems.io"><img src="https://img.shields.io/badge/Instagram-C8912A?style=flat-square&logo=instagram&logoColor=111D3A" alt="HSP Systems Instagram" /></a>
 </p>
 
-## About Me
+## What I build for companies
 
-I run **HSP Systems**, where I design and build software systems that help businesses operate more efficiently.
+Most businesses do not need more software. They need the software, people, data, and processes they already have to work together better.
 
-My work sits at the intersection of custom software, business process automation, AI, integrations, data, and operations. I like taking fragmented tools and complicated workflows and turning them into one coherent system that is easier to operate, maintain, and scale.
+Through **HSP Systems**, I design and build the connective tissue:
 
-I care about systems that are **useful, reliable, observable, secure, and maintainable**. Automation should remove work without removing control.
+- **Operational software** — internal apps, dashboards, portals, dispatch tools, and decision systems built around how the company actually operates.
+- **Automation & integrations** — APIs, webhooks, CRM workflows, databases, communications, and business software connected into one dependable process.
+- **Lead & customer systems** — capture, response, follow-up, pipeline visibility, and the infrastructure that keeps opportunities from falling through the cracks.
+- **AI systems** — practical AI and agentic workflows used where they create leverage, with human control around consequential actions.
+- **Web applications** — custom websites and applications when an off-the-shelf platform cannot fit the process cleanly.
 
-## What I Build
+## Industrial engineering, applied to software
 
-### Business Operations Systems
-Custom software, internal tools, dashboards, and workflows that turn complicated operational processes into clear interfaces and repeatable systems.
+I tend to look at software through an **industrial engineering / systems-thinking lens**:
 
-### Automation & Integrations
-API- and webhook-driven systems that connect CRMs, databases, communications platforms, e-commerce tools, and existing business software.
+**Map the process → find the constraint → remove waste → standardize → automate → measure → improve.**
 
-### AI Systems
-Practical AI and agentic workflows built around real business processes, with human review and controlled execution where it matters.
+Code is one tool in the system. The goal is a business that runs with less friction, clearer information, fewer manual handoffs, and systems that can scale without becoming fragile.
 
-### Web Applications
-Modern websites, portals, dashboards, and applications built around the actual requirements of the business rather than a generic template.
+<p align="center">
+  <img src="https://img.shields.io/badge/Useful-C8912A?style=flat-square" alt="Useful" />
+  <img src="https://img.shields.io/badge/Reliable-1C2E5C?style=flat-square" alt="Reliable" />
+  <img src="https://img.shields.io/badge/Observable-C8912A?style=flat-square" alt="Observable" />
+  <img src="https://img.shields.io/badge/Secure-1C2E5C?style=flat-square" alt="Secure" />
+  <img src="https://img.shields.io/badge/Maintainable-C8912A?style=flat-square" alt="Maintainable" />
+</p>
 
-## Technology
-
-**Application Development**  
-Next.js · TypeScript · Node.js · PostgreSQL · Vercel
-
-**Automation & Integration**  
-APIs · Webhooks · GitHub Actions · GoHighLevel · Airtable · Zapier · ClickUp
-
-**Commerce & Platforms**  
-Shopify · CRM Systems · Internal Operations Software
-
-**AI**  
-OpenAI · Claude · LLM Workflows · AI Agents
-
-## How I Think About Systems
-
-Good systems should reduce complexity, preserve control, and make the important parts of a business easier to see and operate.
-
-That usually means:
-
-- clear system boundaries
-- deliberate automation instead of automation for its own sake
-- human approval around consequential actions
-- secure handling of credentials and sensitive data
-- observable workflows and recoverable failures
-- architecture that can evolve without becoming fragile
-
-## HSP Systems
-
-I build custom systems for businesses that need more than an off-the-shelf tool can provide.
-
-**Website:** [hspsystems.io](https://hspsystems.io)
+<p align="center">
+  <strong><a href="https://hspsystems.io">hspsystems.io</a></strong>
+</p>
